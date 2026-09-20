@@ -18,10 +18,7 @@ wrong label is not graded.
 https://github.com/codepath/pathreview-ai301-fa26-s1/issues/73
 
 **Verdict output**
-
-[Your skill's live-mode output for this issue, pasted verbatim and ending with the
-fenced JSON verdict block. A summary does not satisfy this field.]
-
+```text
 Live mode — candidate is in codepath/pathreview-ai301-fa26-s1, the only scoped source. ✓ (The fit profile in scope.md is still the placeholder (Write a few sentences here.); with a single candidate there's nothing to rank, so it didn't matter here — but fill it in before grading multiple issues.)
 
 Issue #73 — "README and .env.example disagree about which LLM API key to set" · open, labels: bug, good first issue, docs, tier-1
@@ -62,15 +59,6 @@ Every required check passes → accept. Under the Path Review house rule, claim 
   ],
   "verdict": "accept"
 }
-
-**The verdict must record `accept` for this issue.** Choose an issue your own skill
-accepts. If your skill rejects every candidate you try, that is a signal about your
-rubric rather than about the issues: revise it and re-run — retries are unlimited and a
-partial re-run costs about $0.20 — or run the skill on different candidates. Output
-recording `reject` for the issue you chose earns no credit for this field.
-
-```
-paste the output here, including the closing JSON block
 ```
 
 ---
@@ -112,7 +100,7 @@ This is also the basis for the claim comment you write in Unit 2.
 
 **Selection rationale**
 
-[Answer all three:
+Answer all three:
 
 1. This issue fits my interests because it involves understanding how configuration and documentation connect in a software project. The scope is small and clearly defined, with an estimated effort of 1–2 hours, so it fits the time I have available for this assignment.
 
